@@ -1,0 +1,12 @@
+{
+    "image1": "hwQQABAAAAAAAAAAAAAAzAAAAAAAAMDMAAAAAAAAzMwAAAAAAADPzAAAAAAA4M/MAAAAAADs78wAAAAA7izs7szMz+8uLCzu3b0vL0QuLiIAAAAA7k4uIgAAAAAA7i8iAAAAAADgTyQAAAAAAAAuQgAAAAAAAO4iAAAAAAAA4O4AAAAAAAAA7g==",
+    "image2": "hwQFAAgAAABVVSUiVVUlAFVVJSJVVSUAVVUlIg==",
+    "image3": "hwQQABAAAAAAAADAzAwAAAAAAKyqzAAAAMDM/K/LDAAAzMz8z7oMAMD/qsz/uswMwPyvyv+6uwvA/K/MzLqsu8D6rKysu8xqzKq6u2y2zGrMqsq6Zru7xsyq/2+7q7rLzMz/vLvKugzAqv+6u8vLAACsqrqquwwAAMCqzKqqAAAAAMzMzAAAAA==",
+    "image4": "hwQQABAAAAAAAADAzAwAAAAAAKyqzAAAAMDM/K/LDAAAzMz8z7oMAMD/qsz/uswMwPyvyv+6uwvA/K/MzLqsu8D6rKysu8xqzKq6u2y2zGrMqsq6Zru7xsyq/2+7q7rLzMz/vLvKugzAqv+6u8vLAACsqrqquwwAAMCqzKqqAAAAAMzMzAAAAA==",
+    "image5": "hwQQABAAAAAAAADAzAwAAAAAAKyqzAAAAMDM/K/LDAAAzMz8z7oMAMD/qsz/uswMwPyvyv+6uwvA/K/MzLqsu8D6rKysu8xqzKq6u2y2zGrMqsq6Zru7xsyq/2+7q7rLzMz/vLvKugzAqv+6u8vLAACsqrqquwwAAMCqzKqqAAAAAMzMzAAAAA==",
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
